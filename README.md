@@ -10,6 +10,12 @@ My client and personal code is private. These repositories describe the architec
 
 - **[Agentic Software Factory](https://github.com/lesterkozlowski/agentic-software-factory-case-study)**: a manager agent picks tickets, an executor delivers them with tests, code review and a security audit, and a human approves the merge.
 - **[AI Second Brain](https://github.com/lesterkozlowski/ai-second-brain-case-study)**: a private knowledge system with hybrid search, local AI models on Intel hardware, nightly synthesis, and a team of AI agents managed from a phone.
+- **[ChristFlow](https://github.com/lesterkozlowski/christflow-case-study)**: volunteer and shift coordination for a street-outreach organization (Next.js on Cloudflare Workers, Laravel).
+- **[Off-grid Camper IoT](https://github.com/lesterkozlowski/off-grid-camper-iot-case-study)**: solar-powered camper monitoring with ESP32, Home Assistant, MQTT and BLE.
+
+## Open source
+
+- **[Czytacz](https://github.com/lesterkozlowski/czytacz-tts)**: reads AI coding agents' replies aloud in Polish with a local text-to-speech model on an Intel iGPU.
 
 ## What I work with
 
